@@ -10,4 +10,4 @@ Using qtspim tool and writing mips code.
 
 3 - Multiply and Divide two numbers using only shift operators
 
-4 - For imlpementing basic logical operations
+4 - For imlpementing basic logical operations using mips code
