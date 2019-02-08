@@ -17,6 +17,11 @@ nor $t6, $t1, $t2
 
 # this is xnor -- 
 
+
+
+
+#this is 1's compliment
+
 nor $t8, $t1,$zero
 
 
